@@ -1,6 +1,10 @@
 
 # Project: Danamon IG Q4 Performance Analysis
 
+![alt text](https://github.com/alfadewa58/Bank-Instagram-Performance-Analysis/blob/main/Screenshot%202025-01-20%20172632.png)
+
+[View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDM3MjYxZWYtOTVlZC00OTM5LWE0ODYtMzMwNDNmZjgzMmJlIiwidCI6IjUwODkxNmEwLTdiODktNDNhMS1hZjRlLTcyZmUxNWFiYTViOSIsImMiOjEwfQ%3D%3D&pageName=9e9b7e411ead82392c4e)
+
 This project analyzes the performance data for Danamon IG Q4 using a Jupyter Notebook. The analysis includes data cleaning, visualizations, and engagement insights to provide actionable recommendations for improving Instagram strategies.
 
 ---
